@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Shabbir</h1>
 <h3 align="center">Working on open-source,Gsco 2023,DevOps,</h3>
-https://cdn.productfocus.com/wp/wp-content/uploads/2019/10/AdobeStock_265193403-DevOps-scaled.jpg
-
+<img aling="rigth" alt="Coding" width="400" src="https://cdn.productfocus.com/wp/wp-content/uploads/2019/10/AdobeStock_265193403-DevOps-scaled.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=852hamza&label=Profile%20views&color=0e75b6&style=flat" alt="852hamza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=852hamza" alt="852hamza" /></a> </p>

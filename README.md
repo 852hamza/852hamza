@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hamzaarain852sba@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/a5737680/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/a5737680/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Know about my experiences [https://hamzasba.netlify.app/experience)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
